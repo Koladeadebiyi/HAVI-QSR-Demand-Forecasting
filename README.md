@@ -14,6 +14,10 @@ This project develops a machine learning forecasting solution for a Quick Servic
 
 The project covers the end-to-end forecasting workflow, from exploratory data analysis and feature engineering to model development, validation, forecast generation and performance evaluation.
 
+## Project at a Glance
+
+![HAVI QSR Demand Forecasting Infographic](outputs/eda/havi_qsr_forecasting_infographic.png)
+
 ## 2. Project Scope
 
 | Metric | Description |
