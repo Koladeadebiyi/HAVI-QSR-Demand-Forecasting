@@ -1,0 +1,4 @@
+historical_window,combinations,pearson_correlation,spearman_correlation
+historical_zero_rate_28d,750,0.7395539902808499,0.8729072391487344
+historical_zero_rate_90d,750,0.8451779571846602,0.8970374606733784
+historical_zero_rate_365d,750,0.9141144292451543,0.8397953501935053

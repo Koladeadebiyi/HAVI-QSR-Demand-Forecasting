@@ -1,0 +1,314 @@
+date,restaurant_id,restaurant_name,city,state,menu_item_id,menu_item_name,category,unit_price,quantity,day_of_week,day_of_week_num,is_weekend,month,year,avg_temp_f,precip_inches,precip_type,is_holiday,holiday_name,is_special_event,special_event_name,is_promotion
+2025-10-01,R01,Downtown Chicago Grill,Chicago,IL,M14,Chicken Caesar Salad,Chicken,8.99,,Wednesday,2,0,10,2025,59.2,0.0,,0,,0,,0
+2025-10-06,R01,Downtown Chicago Grill,Chicago,IL,M48,Seasonal Fish Sandwich,Specials,7.99,,Monday,0,0,10,2025,53.8,0.0,,0,,0,,0
+2025-10-09,R01,Downtown Chicago Grill,Chicago,IL,M13,Buffalo Chicken Tenders,Chicken,6.49,,Thursday,3,0,10,2025,55.0,0.0,,0,,0,,0
+2025-10-11,R01,Downtown Chicago Grill,Chicago,IL,M22,Loaded Potato Bites,Sides,4.29,,Saturday,5,1,10,2025,49.7,0.0,,0,,0,,0
+2025-10-17,R01,Downtown Chicago Grill,Chicago,IL,M29,Coffee Regular,Drinks,1.79,,Friday,4,0,10,2025,50.9,0.0,,0,,0,,0
+2025-10-18,R01,Downtown Chicago Grill,Chicago,IL,M09,Crispy Chicken Sandwich,Chicken,7.29,,Saturday,5,1,10,2025,53.7,0.0,,0,,0,,0
+2025-10-22,R01,Downtown Chicago Grill,Chicago,IL,M46,Combo #4 Nuggets Meal,Combos,8.99,,Wednesday,2,0,10,2025,50.5,0.0,,0,,0,,0
+2025-10-25,R01,Downtown Chicago Grill,Chicago,IL,M17,Onion Rings,Sides,3.49,,Saturday,5,1,10,2025,50.6,0.0,,0,,0,,0
+2025-10-30,R01,Downtown Chicago Grill,Chicago,IL,M25,Iced Tea,Drinks,2.29,,Thursday,3,0,10,2025,45.7,0.0,,0,,0,,0
+2025-10-31,R01,Downtown Chicago Grill,Chicago,IL,M37,Yogurt Parfait,Breakfast,3.99,,Friday,4,0,10,2025,50.4,0.0,,0,,1,Halloween on State Street,0
+2025-11-05,R01,Downtown Chicago Grill,Chicago,IL,M32,Breakfast Burrito,Breakfast,5.49,,Wednesday,2,0,11,2025,42.6,0.0,,0,,0,,0
+2025-11-06,R01,Downtown Chicago Grill,Chicago,IL,M46,Combo #4 Nuggets Meal,Combos,8.99,,Thursday,3,0,11,2025,42.0,0.01,Rain,0,,0,,0
+2025-11-09,R01,Downtown Chicago Grill,Chicago,IL,M46,Combo #4 Nuggets Meal,Combos,8.99,,Sunday,6,1,11,2025,42.3,0.0,,0,,0,,0
+2025-11-12,R01,Downtown Chicago Grill,Chicago,IL,M11,Chicken Nuggets 6pc,Chicken,4.99,,Wednesday,2,0,11,2025,39.2,0.0,,0,,0,,0
+2025-11-12,R01,Downtown Chicago Grill,Chicago,IL,M29,Coffee Regular,Drinks,1.79,,Wednesday,2,0,11,2025,39.2,0.0,,0,,0,,0
+2025-11-21,R01,Downtown Chicago Grill,Chicago,IL,M06,Spicy Jalapeno Burger,Burgers,8.49,,Friday,4,0,11,2025,40.8,0.0,,0,,0,,0
+2025-11-21,R01,Downtown Chicago Grill,Chicago,IL,M41,Sundae,Desserts,3.49,,Friday,4,0,11,2025,40.8,0.0,,0,,0,,0
+2025-12-10,R01,Downtown Chicago Grill,Chicago,IL,M38,Apple Pie Slice,Desserts,2.99,,Wednesday,2,0,12,2025,32.0,0.0,,0,,0,,0
+2025-12-11,R01,Downtown Chicago Grill,Chicago,IL,M43,Combo #1 Cheeseburger Meal,Combos,9.99,,Thursday,3,0,12,2025,26.2,0.0,,0,,0,,0
+2025-12-13,R01,Downtown Chicago Grill,Chicago,IL,M38,Apple Pie Slice,Desserts,2.99,,Saturday,5,1,12,2025,29.7,0.0,,0,,0,,0
+2025-12-21,R01,Downtown Chicago Grill,Chicago,IL,M04,Mushroom Swiss Burger,Burgers,8.29,,Sunday,6,1,12,2025,23.7,0.24,Snow,0,,0,,0
+2025-12-22,R01,Downtown Chicago Grill,Chicago,IL,M42,Soft Serve Cone,Desserts,1.99,,Monday,0,0,12,2025,23.1,0.0,,0,,0,,0
+2025-12-31,R01,Downtown Chicago Grill,Chicago,IL,M10,Grilled Chicken Wrap,Chicken,6.99,,Wednesday,2,0,12,2025,27.7,0.06,Snow,0,,0,,0
+2025-10-05,R02,Wrigleyville Bites,Chicago,IL,M46,Combo #4 Nuggets Meal,Combos,8.99,,Sunday,6,1,10,2025,49.4,0.0,,0,,0,,0
+2025-10-16,R02,Wrigleyville Bites,Chicago,IL,M25,Iced Tea,Drinks,2.29,,Thursday,3,0,10,2025,51.8,0.5,Rain,0,,0,,0
+2025-11-01,R02,Wrigleyville Bites,Chicago,IL,M16,French Fries Large,Sides,3.99,,Saturday,5,1,11,2025,47.8,0.0,,0,,0,,0
+2025-11-04,R02,Wrigleyville Bites,Chicago,IL,M50,Chili Bowl,Specials,5.49,,Tuesday,1,0,11,2025,38.8,0.0,,0,,0,,0
+2025-11-07,R02,Wrigleyville Bites,Chicago,IL,M14,Chicken Caesar Salad,Chicken,8.99,,Friday,4,0,11,2025,38.1,0.0,,0,,0,,0
+2025-11-08,R02,Wrigleyville Bites,Chicago,IL,M44,Combo #2 Chicken Sandwich Meal,Combos,9.99,,Saturday,5,1,11,2025,40.6,0.0,,0,,0,,0
+2025-11-17,R02,Wrigleyville Bites,Chicago,IL,M50,Chili Bowl,Specials,5.49,,Monday,0,0,11,2025,37.6,0.0,,0,,0,,0
+2025-11-18,R02,Wrigleyville Bites,Chicago,IL,M14,Chicken Caesar Salad,Chicken,8.99,,Tuesday,1,0,11,2025,34.1,0.0,,0,,0,,0
+2025-11-19,R02,Wrigleyville Bites,Chicago,IL,M07,Kids Burger,Burgers,4.99,,Wednesday,2,0,11,2025,38.5,0.0,,0,,0,,0
+2025-11-24,R02,Wrigleyville Bites,Chicago,IL,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Monday,0,0,11,2025,39.6,0.0,,0,,0,,0
+2025-11-24,R02,Wrigleyville Bites,Chicago,IL,M49,Loaded Nachos,Specials,6.99,,Monday,0,0,11,2025,39.6,0.0,,0,,0,,0
+2025-11-30,R02,Wrigleyville Bites,Chicago,IL,M14,Chicken Caesar Salad,Chicken,8.99,,Sunday,6,1,11,2025,33.7,0.0,,0,,0,,0
+2025-12-07,R02,Wrigleyville Bites,Chicago,IL,M22,Loaded Potato Bites,Sides,4.29,,Sunday,6,1,12,2025,28.2,0.0,,0,,0,,0
+2025-12-09,R02,Wrigleyville Bites,Chicago,IL,M38,Apple Pie Slice,Desserts,2.99,,Tuesday,1,0,12,2025,29.2,0.06,Snow,0,,0,,0
+2025-12-15,R02,Wrigleyville Bites,Chicago,IL,M46,Combo #4 Nuggets Meal,Combos,8.99,,Monday,0,0,12,2025,27.4,0.0,,0,,0,,0
+2025-12-20,R02,Wrigleyville Bites,Chicago,IL,M12,Chicken Nuggets 12pc,Chicken,7.49,,Saturday,5,1,12,2025,26.7,0.0,,0,,0,,0
+2025-12-23,R02,Wrigleyville Bites,Chicago,IL,M10,Grilled Chicken Wrap,Chicken,6.99,,Tuesday,1,0,12,2025,19.7,0.0,,0,,0,,0
+2025-12-26,R02,Wrigleyville Bites,Chicago,IL,M27,Milkshake Vanilla,Drinks,4.99,,Friday,4,0,12,2025,24.3,0.0,,0,,0,,0
+2025-12-28,R02,Wrigleyville Bites,Chicago,IL,M03,Veggie Burger,Burgers,7.49,,Sunday,6,1,12,2025,25.1,0.41,Snow,0,,0,,0
+2025-12-29,R02,Wrigleyville Bites,Chicago,IL,M26,Lemonade,Drinks,2.49,,Monday,0,0,12,2025,32.6,0.16,Snow,0,,0,,0
+2025-12-31,R02,Wrigleyville Bites,Chicago,IL,M06,Spicy Jalapeno Burger,Burgers,8.49,,Wednesday,2,0,12,2025,27.7,0.06,Snow,0,,0,,0
+2025-10-01,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M11,Chicken Nuggets 6pc,Chicken,4.99,,Wednesday,2,0,10,2025,60.0,0.25,Rain,0,,0,,0
+2025-10-08,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M23,Soft Drink Regular,Drinks,1.99,,Wednesday,2,0,10,2025,51.1,0.0,,0,,0,,0
+2025-10-08,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M30,Bottled Water,Drinks,1.49,,Wednesday,2,0,10,2025,51.1,0.0,,0,,0,,0
+2025-10-09,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M14,Chicken Caesar Salad,Chicken,8.99,,Thursday,3,0,10,2025,45.4,0.0,,0,,0,,0
+2025-10-10,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Friday,4,0,10,2025,49.3,0.0,,0,,0,,0
+2025-10-12,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M46,Combo #4 Nuggets Meal,Combos,8.99,,Sunday,6,1,10,2025,47.8,0.0,,0,,0,,0
+2025-10-13,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M43,Combo #1 Cheeseburger Meal,Combos,9.99,,Monday,0,0,10,2025,53.0,0.29,Rain,1,Columbus Day,0,,0
+2025-10-22,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M45,Combo #3 Double Burger Meal,Combos,12.49,,Wednesday,2,0,10,2025,48.7,0.34,Rain,0,,0,,0
+2025-10-27,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M40,Brownie,Desserts,2.49,,Monday,0,0,10,2025,52.1,0.56,Rain,0,,0,,0
+2025-10-29,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M47,Kids Combo Meal,Combos,5.99,,Wednesday,2,0,10,2025,54.1,0.0,,0,,0,,0
+2025-10-31,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M01,Classic Cheeseburger,Burgers,6.99,,Friday,4,0,10,2025,47.8,0.0,,0,,0,,0
+2025-11-03,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M11,Chicken Nuggets 6pc,Chicken,4.99,,Monday,0,0,11,2025,45.3,0.72,Rain,0,,0,,0
+2025-11-03,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M32,Breakfast Burrito,Breakfast,5.49,,Monday,0,0,11,2025,45.3,0.72,Rain,0,,0,,0
+2025-11-04,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M48,Seasonal Fish Sandwich,Specials,7.99,,Tuesday,1,0,11,2025,42.4,0.12,Rain,0,,0,,0
+2025-11-05,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M29,Coffee Regular,Drinks,1.79,,Wednesday,2,0,11,2025,38.8,0.31,Rain,0,,0,,0
+2025-11-10,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M25,Iced Tea,Drinks,2.29,,Monday,0,0,11,2025,40.6,0.0,,0,,0,,0
+2025-11-15,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M45,Combo #3 Double Burger Meal,Combos,12.49,,Saturday,5,1,11,2025,34.8,0.0,,0,,0,,0
+2025-11-17,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M08,Turkey Burger,Burgers,7.99,,Monday,0,0,11,2025,39.1,0.0,,0,,0,,0
+2025-11-20,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M11,Chicken Nuggets 6pc,Chicken,4.99,,Thursday,3,0,11,2025,39.5,0.0,,0,,1,Thanksgiving Turkey Trot,0
+2025-11-21,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M23,Soft Drink Regular,Drinks,1.99,,Friday,4,0,11,2025,39.9,0.2,Rain,0,,1,Thanksgiving Turkey Trot,0
+2025-12-07,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M23,Soft Drink Regular,Drinks,1.99,,Sunday,6,1,12,2025,30.7,0.04,Snow,0,,0,,0
+2025-12-10,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M40,Brownie,Desserts,2.49,,Wednesday,2,0,12,2025,31.3,0.0,,0,,0,,0
+2025-12-13,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M06,Spicy Jalapeno Burger,Burgers,8.49,,Saturday,5,1,12,2025,31.5,0.0,,0,,0,,0
+2025-12-17,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M16,French Fries Large,Sides,3.99,,Wednesday,2,0,12,2025,29.9,0.0,,0,,0,,0
+2025-12-17,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M21,Mac and Cheese,Sides,3.99,,Wednesday,2,0,12,2025,29.9,0.0,,0,,0,,0
+2025-12-21,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M18,Mozzarella Sticks,Sides,4.49,,Sunday,6,1,12,2025,25.3,0.0,,0,,0,,0
+2025-12-21,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M38,Apple Pie Slice,Desserts,2.99,,Sunday,6,1,12,2025,25.3,0.0,,0,,0,,0
+2025-12-26,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M41,Sundae,Desserts,3.49,,Friday,4,0,12,2025,27.1,0.0,,0,,0,,0
+2025-12-28,R03,Indianapolis Crossroads Eats,Indianapolis,IN,M34,Hash Browns,Breakfast,2.29,,Sunday,6,1,12,2025,32.5,0.0,,0,,0,,0
+2025-10-04,R04,Detroit Motor City Diner,Detroit,MI,M13,Buffalo Chicken Tenders,Chicken,6.49,,Saturday,5,1,10,2025,58.5,0.42,Rain,0,,0,,0
+2025-10-04,R04,Detroit Motor City Diner,Detroit,MI,M49,Loaded Nachos,Specials,6.99,,Saturday,5,1,10,2025,58.5,0.42,Rain,0,,0,,0
+2025-10-11,R04,Detroit Motor City Diner,Detroit,MI,M43,Combo #1 Cheeseburger Meal,Combos,9.99,,Saturday,5,1,10,2025,52.8,0.05,Rain,0,,0,,0
+2025-10-13,R04,Detroit Motor City Diner,Detroit,MI,M14,Chicken Caesar Salad,Chicken,8.99,,Monday,0,0,10,2025,51.6,0.0,,1,Columbus Day,0,,0
+2025-10-25,R04,Detroit Motor City Diner,Detroit,MI,M37,Yogurt Parfait,Breakfast,3.99,,Saturday,5,1,10,2025,47.0,0.77,Rain,0,,0,,0
+2025-11-02,R04,Detroit Motor City Diner,Detroit,MI,M44,Combo #2 Chicken Sandwich Meal,Combos,9.99,,Sunday,6,1,11,2025,40.0,0.04,Rain,0,,0,,0
+2025-11-03,R04,Detroit Motor City Diner,Detroit,MI,M48,Seasonal Fish Sandwich,Specials,7.99,,Monday,0,0,11,2025,40.6,0.0,,0,,0,,0
+2025-11-08,R04,Detroit Motor City Diner,Detroit,MI,M46,Combo #4 Nuggets Meal,Combos,8.99,,Saturday,5,1,11,2025,37.7,0.0,,0,,0,,0
+2025-11-20,R04,Detroit Motor City Diner,Detroit,MI,M20,Coleslaw,Sides,2.49,,Thursday,3,0,11,2025,43.7,0.0,,0,,0,,0
+2025-12-06,R04,Detroit Motor City Diner,Detroit,MI,M21,Mac and Cheese,Sides,3.99,,Saturday,5,1,12,2025,30.3,0.0,,0,,0,,0
+2025-12-07,R04,Detroit Motor City Diner,Detroit,MI,M06,Spicy Jalapeno Burger,Burgers,8.49,,Sunday,6,1,12,2025,29.6,0.0,,0,,0,,0
+2025-12-08,R04,Detroit Motor City Diner,Detroit,MI,M11,Chicken Nuggets 6pc,Chicken,4.99,,Monday,0,0,12,2025,28.0,0.01,Snow,0,,0,,0
+2025-12-09,R04,Detroit Motor City Diner,Detroit,MI,M43,Combo #1 Cheeseburger Meal,Combos,9.99,,Tuesday,1,0,12,2025,27.8,0.12,Snow,0,,0,,0
+2025-12-12,R04,Detroit Motor City Diner,Detroit,MI,M45,Combo #3 Double Burger Meal,Combos,12.49,,Friday,4,0,12,2025,28.0,0.0,,0,,0,,0
+2025-12-15,R04,Detroit Motor City Diner,Detroit,MI,M07,Kids Burger,Burgers,4.99,,Monday,0,0,12,2025,21.7,0.24,Snow,0,,0,,0
+2025-12-16,R04,Detroit Motor City Diner,Detroit,MI,M22,Loaded Potato Bites,Sides,4.29,,Tuesday,1,0,12,2025,24.6,0.0,,0,,0,,0
+2025-12-17,R04,Detroit Motor City Diner,Detroit,MI,M09,Crispy Chicken Sandwich,Chicken,7.29,,Wednesday,2,0,12,2025,34.3,0.0,,0,,0,,0
+2025-12-18,R04,Detroit Motor City Diner,Detroit,MI,M10,Grilled Chicken Wrap,Chicken,6.99,,Thursday,3,0,12,2025,32.0,0.0,,0,,0,,0
+2025-12-20,R04,Detroit Motor City Diner,Detroit,MI,M49,Loaded Nachos,Specials,6.99,,Saturday,5,1,12,2025,29.7,0.06,Snow,0,,0,,0
+2025-12-21,R04,Detroit Motor City Diner,Detroit,MI,M15,French Fries Regular,Sides,2.99,,Sunday,6,1,12,2025,34.8,0.0,,0,,0,,0
+2025-10-03,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M29,Coffee Regular,Drinks,1.79,,Friday,4,0,10,2025,49.6,0.35,Rain,0,,1,Brewers Playoff Games,0
+2025-10-18,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M36,Fruit Cup,Breakfast,3.49,,Saturday,5,1,10,2025,46.0,0.0,,0,,0,,0
+2025-10-19,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M25,Iced Tea,Drinks,2.29,,Sunday,6,1,10,2025,44.4,0.0,,0,,0,,0
+2025-10-19,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M33,Pancake Platter,Breakfast,5.99,,Sunday,6,1,10,2025,44.4,0.0,,0,,0,,0
+2025-10-20,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M41,Sundae,Desserts,3.49,,Monday,0,0,10,2025,48.5,0.0,,0,,0,,0
+2025-10-21,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M45,Combo #3 Double Burger Meal,Combos,12.49,,Tuesday,1,0,10,2025,49.5,0.0,,0,,0,,0
+2025-10-22,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M11,Chicken Nuggets 6pc,Chicken,4.99,,Wednesday,2,0,10,2025,45.1,0.0,,0,,0,,0
+2025-10-24,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M02,Double Bacon Burger,Burgers,9.49,,Friday,4,0,10,2025,46.2,0.04,Rain,0,,0,,0
+2025-11-03,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M25,Iced Tea,Drinks,2.29,,Monday,0,0,11,2025,36.5,0.0,,0,,0,,0
+2025-11-17,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M49,Loaded Nachos,Specials,6.99,,Monday,0,0,11,2025,39.0,0.0,,0,,0,,0
+2025-11-20,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M22,Loaded Potato Bites,Sides,4.29,,Thursday,3,0,11,2025,31.4,0.12,Snow,0,,0,,0
+2025-12-01,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M48,Seasonal Fish Sandwich,Specials,7.99,,Monday,0,0,12,2025,24.6,0.0,,0,,0,,0
+2025-12-08,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M38,Apple Pie Slice,Desserts,2.99,,Monday,0,0,12,2025,21.1,0.0,,0,,0,,0
+2025-12-09,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M50,Chili Bowl,Specials,5.49,,Tuesday,1,0,12,2025,23.2,0.0,,0,,0,,0
+2025-12-11,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M11,Chicken Nuggets 6pc,Chicken,4.99,,Thursday,3,0,12,2025,18.5,0.5,Snow,0,,0,,0
+2025-12-16,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M17,Onion Rings,Sides,3.49,,Tuesday,1,0,12,2025,19.7,0.0,,0,,0,,0
+2025-12-16,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M44,Combo #2 Chicken Sandwich Meal,Combos,9.99,,Tuesday,1,0,12,2025,19.7,0.0,,0,,0,,0
+2025-12-17,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M33,Pancake Platter,Breakfast,5.99,,Wednesday,2,0,12,2025,22.4,0.2,Snow,0,,0,,0
+2025-12-19,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M40,Brownie,Desserts,2.49,,Friday,4,0,12,2025,18.5,0.0,,0,,0,,0
+2025-12-21,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M07,Kids Burger,Burgers,4.99,,Sunday,6,1,12,2025,17.8,0.1,Snow,0,,0,,0
+2025-12-24,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M09,Crispy Chicken Sandwich,Chicken,7.29,,Wednesday,2,0,12,2025,18.6,0.0,,0,,0,,0
+2025-12-24,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M40,Brownie,Desserts,2.49,,Wednesday,2,0,12,2025,18.6,0.0,,0,,0,,0
+2025-12-29,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M28,Milkshake Chocolate,Drinks,4.99,,Monday,0,0,12,2025,28.1,0.01,Snow,0,,0,,0
+2025-12-30,R05,Milwaukee Lakefront Kitchen,Milwaukee,WI,M34,Hash Browns,Breakfast,2.29,,Tuesday,1,0,12,2025,26.4,0.03,Snow,0,,0,,0
+2025-10-03,R06,Columbus Campus Corner,Columbus,OH,M30,Bottled Water,Drinks,1.49,,Friday,4,0,10,2025,51.7,0.0,,0,,0,,0
+2025-10-09,R06,Columbus Campus Corner,Columbus,OH,M50,Chili Bowl,Specials,5.49,,Thursday,3,0,10,2025,54.7,0.0,,0,,0,,0
+2025-10-15,R06,Columbus Campus Corner,Columbus,OH,M43,Combo #1 Cheeseburger Meal,Combos,9.99,,Wednesday,2,0,10,2025,53.6,0.01,Rain,0,,1,OSU Homecoming Weekend,0
+2025-10-22,R06,Columbus Campus Corner,Columbus,OH,M50,Chili Bowl,Specials,5.49,,Wednesday,2,0,10,2025,49.9,0.0,,0,,0,,0
+2025-10-31,R06,Columbus Campus Corner,Columbus,OH,M26,Lemonade,Drinks,2.49,,Friday,4,0,10,2025,48.7,0.0,,0,,0,,0
+2025-11-03,R06,Columbus Campus Corner,Columbus,OH,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Monday,0,0,11,2025,41.3,0.0,,0,,0,,0
+2025-11-05,R06,Columbus Campus Corner,Columbus,OH,M05,BBQ Ranch Burger,Burgers,8.99,,Wednesday,2,0,11,2025,44.2,0.2,Rain,0,,0,,0
+2025-11-05,R06,Columbus Campus Corner,Columbus,OH,M14,Chicken Caesar Salad,Chicken,8.99,,Wednesday,2,0,11,2025,44.2,0.2,Rain,0,,0,,0
+2025-11-06,R06,Columbus Campus Corner,Columbus,OH,M26,Lemonade,Drinks,2.49,,Thursday,3,0,11,2025,49.6,0.0,,0,,0,,0
+2025-11-12,R06,Columbus Campus Corner,Columbus,OH,M42,Soft Serve Cone,Desserts,1.99,,Wednesday,2,0,11,2025,37.9,0.15,Rain,0,,0,,0
+2025-11-20,R06,Columbus Campus Corner,Columbus,OH,M23,Soft Drink Regular,Drinks,1.99,,Thursday,3,0,11,2025,43.6,0.47,Rain,0,,1,The Game Week (OSU vs Michigan),0
+2025-11-22,R06,Columbus Campus Corner,Columbus,OH,M05,BBQ Ranch Burger,Burgers,8.99,,Saturday,5,1,11,2025,39.8,0.0,,0,,1,The Game Week (OSU vs Michigan),0
+2025-11-25,R06,Columbus Campus Corner,Columbus,OH,M37,Yogurt Parfait,Breakfast,3.99,,Tuesday,1,0,11,2025,39.3,0.0,,0,,0,,0
+2025-11-27,R06,Columbus Campus Corner,Columbus,OH,M10,Grilled Chicken Wrap,Chicken,6.99,,Thursday,3,0,11,2025,39.0,0.0,,1,Thanksgiving Day,0,,0
+2025-12-01,R06,Columbus Campus Corner,Columbus,OH,M13,Buffalo Chicken Tenders,Chicken,6.49,,Monday,0,0,12,2025,25.4,0.14,Snow,0,,0,,0
+2025-12-01,R06,Columbus Campus Corner,Columbus,OH,M50,Chili Bowl,Specials,5.49,,Monday,0,0,12,2025,25.4,0.14,Snow,0,,0,,0
+2025-12-19,R06,Columbus Campus Corner,Columbus,OH,M24,Soft Drink Large,Drinks,2.49,,Friday,4,0,12,2025,30.3,0.31,Snow,0,,0,,0
+2025-12-26,R06,Columbus Campus Corner,Columbus,OH,M45,Combo #3 Double Burger Meal,Combos,12.49,,Friday,4,0,12,2025,26.4,0.0,,0,,0,,0
+2025-10-01,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M44,Combo #2 Chicken Sandwich Meal,Combos,9.99,,Wednesday,2,0,10,2025,49.8,0.0,,0,,0,,0
+2025-10-07,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M09,Crispy Chicken Sandwich,Chicken,7.29,,Tuesday,1,0,10,2025,45.1,0.13,Rain,0,,0,,0
+2025-10-10,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M48,Seasonal Fish Sandwich,Specials,7.99,,Friday,4,0,10,2025,48.2,0.0,,0,,0,,0
+2025-10-27,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M08,Turkey Burger,Burgers,7.99,,Monday,0,0,10,2025,39.3,0.17,Rain,0,,0,,0
+2025-11-01,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M14,Chicken Caesar Salad,Chicken,8.99,,Saturday,5,1,11,2025,34.2,0.0,,0,,0,,0
+2025-11-11,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M11,Chicken Nuggets 6pc,Chicken,4.99,,Tuesday,1,0,11,2025,30.6,0.0,,1,Veterans Day,0,,0
+2025-11-16,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M28,Milkshake Chocolate,Drinks,4.99,,Sunday,6,1,11,2025,29.6,0.0,,0,,0,,0
+2025-11-17,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M11,Chicken Nuggets 6pc,Chicken,4.99,,Monday,0,0,11,2025,26.6,0.53,Snow,0,,0,,0
+2025-11-17,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M45,Combo #3 Double Burger Meal,Combos,12.49,,Monday,0,0,11,2025,26.6,0.53,Snow,0,,0,,0
+2025-11-19,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M48,Seasonal Fish Sandwich,Specials,7.99,,Wednesday,2,0,11,2025,32.8,0.0,,0,,0,,0
+2025-11-21,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M02,Double Bacon Burger,Burgers,9.49,,Friday,4,0,11,2025,25.0,0.0,,0,,0,,0
+2025-11-23,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M13,Buffalo Chicken Tenders,Chicken,6.49,,Sunday,6,1,11,2025,25.4,0.0,,0,,0,,0
+2025-11-24,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M13,Buffalo Chicken Tenders,Chicken,6.49,,Monday,0,0,11,2025,26.3,0.0,,0,,0,,0
+2025-12-06,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M07,Kids Burger,Burgers,4.99,,Saturday,5,1,12,2025,16.0,0.01,Snow,0,,0,,0
+2025-12-06,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M20,Coleslaw,Sides,2.49,,Saturday,5,1,12,2025,16.0,0.01,Snow,0,,0,,0
+2025-12-09,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M07,Kids Burger,Burgers,4.99,,Tuesday,1,0,12,2025,20.2,0.0,,0,,0,,0
+2025-12-13,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M08,Turkey Burger,Burgers,7.99,,Saturday,5,1,12,2025,16.3,0.05,Snow,0,,0,,0
+2025-12-16,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M26,Lemonade,Drinks,2.49,,Tuesday,1,0,12,2025,22.5,0.09,Snow,0,,0,,1
+2025-12-16,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M33,Pancake Platter,Breakfast,5.99,,Tuesday,1,0,12,2025,22.5,0.09,Snow,0,,0,,0
+2025-12-26,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M39,Chocolate Chip Cookie,Desserts,1.49,,Friday,4,0,12,2025,21.6,0.0,,0,,0,,0
+2025-12-31,R07,Minneapolis Uptown Cafe,Minneapolis,MN,M44,Combo #2 Chicken Sandwich Meal,Combos,9.99,,Wednesday,2,0,12,2025,17.7,0.0,,0,,0,,0
+2025-10-02,R08,Kansas City BBQ Junction,Kansas City,MO,M29,Coffee Regular,Drinks,1.79,,Thursday,3,0,10,2025,56.0,0.0,,0,,0,,0
+2025-10-02,R08,Kansas City BBQ Junction,Kansas City,MO,M44,Combo #2 Chicken Sandwich Meal,Combos,9.99,,Thursday,3,0,10,2025,56.0,0.0,,0,,0,,0
+2025-10-07,R08,Kansas City BBQ Junction,Kansas City,MO,M28,Milkshake Chocolate,Drinks,4.99,,Tuesday,1,0,10,2025,57.2,0.0,,0,,0,,0
+2025-10-09,R08,Kansas City BBQ Junction,Kansas City,MO,M09,Crispy Chicken Sandwich,Chicken,7.29,,Thursday,3,0,10,2025,60.9,0.0,,0,,0,,0
+2025-10-13,R08,Kansas City BBQ Junction,Kansas City,MO,M10,Grilled Chicken Wrap,Chicken,6.99,,Monday,0,0,10,2025,58.4,0.0,,1,Columbus Day,0,,0
+2025-10-14,R08,Kansas City BBQ Junction,Kansas City,MO,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Tuesday,1,0,10,2025,51.6,0.0,,0,,0,,0
+2025-10-15,R08,Kansas City BBQ Junction,Kansas City,MO,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Wednesday,2,0,10,2025,56.5,0.0,,0,,0,,0
+2025-10-20,R08,Kansas City BBQ Junction,Kansas City,MO,M06,Spicy Jalapeno Burger,Burgers,8.49,,Monday,0,0,10,2025,54.7,0.0,,0,,0,,0
+2025-10-25,R08,Kansas City BBQ Junction,Kansas City,MO,M45,Combo #3 Double Burger Meal,Combos,12.49,,Saturday,5,1,10,2025,57.1,0.0,,0,,0,,0
+2025-10-31,R08,Kansas City BBQ Junction,Kansas City,MO,M42,Soft Serve Cone,Desserts,1.99,,Friday,4,0,10,2025,49.4,0.0,,0,,0,,0
+2025-11-22,R08,Kansas City BBQ Junction,Kansas City,MO,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Saturday,5,1,11,2025,33.5,0.0,,0,,0,,0
+2025-11-23,R08,Kansas City BBQ Junction,Kansas City,MO,M17,Onion Rings,Sides,3.49,,Sunday,6,1,11,2025,34.9,0.69,Rain,0,,0,,0
+2025-11-23,R08,Kansas City BBQ Junction,Kansas City,MO,M35,Oatmeal Cup,Breakfast,2.99,,Sunday,6,1,11,2025,34.9,0.69,Rain,0,,0,,0
+2025-11-25,R08,Kansas City BBQ Junction,Kansas City,MO,M46,Combo #4 Nuggets Meal,Combos,8.99,,Tuesday,1,0,11,2025,37.1,0.0,,0,,0,,0
+2025-11-28,R08,Kansas City BBQ Junction,Kansas City,MO,M11,Chicken Nuggets 6pc,Chicken,4.99,,Friday,4,0,11,2025,40.9,0.07,Rain,0,,0,,0
+2025-11-28,R08,Kansas City BBQ Junction,Kansas City,MO,M43,Combo #1 Cheeseburger Meal,Combos,9.99,,Friday,4,0,11,2025,40.9,0.07,Rain,0,,0,,0
+2025-11-29,R08,Kansas City BBQ Junction,Kansas City,MO,M30,Bottled Water,Drinks,1.49,,Saturday,5,1,11,2025,36.2,0.0,,0,,0,,0
+2025-12-10,R08,Kansas City BBQ Junction,Kansas City,MO,M18,Mozzarella Sticks,Sides,4.49,,Wednesday,2,0,12,2025,24.3,0.0,,0,,0,,0
+2025-12-11,R08,Kansas City BBQ Junction,Kansas City,MO,M02,Double Bacon Burger,Burgers,9.49,,Thursday,3,0,12,2025,27.6,0.01,Snow,0,,0,,0
+2025-12-12,R08,Kansas City BBQ Junction,Kansas City,MO,M15,French Fries Regular,Sides,2.99,,Friday,4,0,12,2025,28.5,0.0,,0,,0,,0
+2025-12-15,R08,Kansas City BBQ Junction,Kansas City,MO,M39,Chocolate Chip Cookie,Desserts,1.49,,Monday,0,0,12,2025,32.8,0.13,Snow,0,,0,,0
+2025-12-16,R08,Kansas City BBQ Junction,Kansas City,MO,M32,Breakfast Burrito,Breakfast,5.49,,Tuesday,1,0,12,2025,35.0,0.0,,0,,0,,0
+2025-12-16,R08,Kansas City BBQ Junction,Kansas City,MO,M34,Hash Browns,Breakfast,2.29,,Tuesday,1,0,12,2025,35.0,0.0,,0,,0,,0
+2025-12-17,R08,Kansas City BBQ Junction,Kansas City,MO,M24,Soft Drink Large,Drinks,2.49,,Wednesday,2,0,12,2025,36.4,0.01,Rain,0,,0,,0
+2025-12-26,R08,Kansas City BBQ Junction,Kansas City,MO,M26,Lemonade,Drinks,2.49,,Friday,4,0,12,2025,32.2,0.0,,0,,0,,0
+2025-10-02,R09,St. Louis Gateway Grub,St. Louis,MO,M21,Mac and Cheese,Sides,3.99,,Thursday,3,0,10,2025,58.1,0.0,,0,,1,Cardinals Playoff Games,0
+2025-10-15,R09,St. Louis Gateway Grub,St. Louis,MO,M45,Combo #3 Double Burger Meal,Combos,12.49,,Wednesday,2,0,10,2025,54.0,0.02,Rain,0,,0,,1
+2025-10-16,R09,St. Louis Gateway Grub,St. Louis,MO,M41,Sundae,Desserts,3.49,,Thursday,3,0,10,2025,54.1,0.0,,0,,0,,0
+2025-10-24,R09,St. Louis Gateway Grub,St. Louis,MO,M22,Loaded Potato Bites,Sides,4.29,,Friday,4,0,10,2025,56.6,0.0,,0,,0,,0
+2025-10-26,R09,St. Louis Gateway Grub,St. Louis,MO,M24,Soft Drink Large,Drinks,2.49,,Sunday,6,1,10,2025,51.7,0.0,,0,,0,,0
+2025-10-29,R09,St. Louis Gateway Grub,St. Louis,MO,M24,Soft Drink Large,Drinks,2.49,,Wednesday,2,0,10,2025,52.8,0.0,,0,,0,,0
+2025-10-30,R09,St. Louis Gateway Grub,St. Louis,MO,M26,Lemonade,Drinks,2.49,,Thursday,3,0,10,2025,53.9,0.0,,0,,0,,0
+2025-11-04,R09,St. Louis Gateway Grub,St. Louis,MO,M33,Pancake Platter,Breakfast,5.99,,Tuesday,1,0,11,2025,45.4,0.0,,0,,0,,0
+2025-11-28,R09,St. Louis Gateway Grub,St. Louis,MO,M07,Kids Burger,Burgers,4.99,,Friday,4,0,11,2025,41.9,0.0,,0,,0,,0
+2025-12-01,R09,St. Louis Gateway Grub,St. Louis,MO,M05,BBQ Ranch Burger,Burgers,8.99,,Monday,0,0,12,2025,37.7,0.21,Rain,0,,0,,0
+2025-12-09,R09,St. Louis Gateway Grub,St. Louis,MO,M01,Classic Cheeseburger,Burgers,6.99,,Tuesday,1,0,12,2025,29.7,0.24,Snow,0,,0,,0
+2025-12-09,R09,St. Louis Gateway Grub,St. Louis,MO,M46,Combo #4 Nuggets Meal,Combos,8.99,,Tuesday,1,0,12,2025,29.7,0.24,Snow,0,,0,,0
+2025-12-14,R09,St. Louis Gateway Grub,St. Louis,MO,M15,French Fries Regular,Sides,2.99,,Sunday,6,1,12,2025,34.9,0.0,,0,,0,,0
+2025-12-18,R09,St. Louis Gateway Grub,St. Louis,MO,M36,Fruit Cup,Breakfast,3.49,,Thursday,3,0,12,2025,34.4,0.12,Snow,0,,0,,0
+2025-10-05,R10,Cleveland Flats Eatery,Cleveland,OH,M06,Spicy Jalapeno Burger,Burgers,8.49,,Sunday,6,1,10,2025,59.2,0.0,,0,,0,,0
+2025-10-12,R10,Cleveland Flats Eatery,Cleveland,OH,M20,Coleslaw,Sides,2.49,,Sunday,6,1,10,2025,50.1,0.1,Rain,0,,0,,0
+2025-10-16,R10,Cleveland Flats Eatery,Cleveland,OH,M46,Combo #4 Nuggets Meal,Combos,8.99,,Thursday,3,0,10,2025,51.6,0.0,,0,,0,,0
+2025-10-18,R10,Cleveland Flats Eatery,Cleveland,OH,M40,Brownie,Desserts,2.49,,Saturday,5,1,10,2025,50.1,0.0,,0,,0,,0
+2025-10-22,R10,Cleveland Flats Eatery,Cleveland,OH,M18,Mozzarella Sticks,Sides,4.49,,Wednesday,2,0,10,2025,47.6,0.07,Rain,0,,0,,0
+2025-10-23,R10,Cleveland Flats Eatery,Cleveland,OH,M40,Brownie,Desserts,2.49,,Thursday,3,0,10,2025,47.9,0.0,,0,,0,,0
+2025-10-23,R10,Cleveland Flats Eatery,Cleveland,OH,M46,Combo #4 Nuggets Meal,Combos,8.99,,Thursday,3,0,10,2025,47.9,0.0,,0,,0,,0
+2025-10-25,R10,Cleveland Flats Eatery,Cleveland,OH,M19,Side Salad,Sides,3.29,,Saturday,5,1,10,2025,50.9,0.0,,0,,0,,0
+2025-10-27,R10,Cleveland Flats Eatery,Cleveland,OH,M45,Combo #3 Double Burger Meal,Combos,12.49,,Monday,0,0,10,2025,47.4,0.0,,0,,0,,0
+2025-11-05,R10,Cleveland Flats Eatery,Cleveland,OH,M13,Buffalo Chicken Tenders,Chicken,6.49,,Wednesday,2,0,11,2025,42.6,0.05,Rain,0,,0,,0
+2025-11-05,R10,Cleveland Flats Eatery,Cleveland,OH,M23,Soft Drink Regular,Drinks,1.99,,Wednesday,2,0,11,2025,42.6,0.05,Rain,0,,0,,0
+2025-11-06,R10,Cleveland Flats Eatery,Cleveland,OH,M14,Chicken Caesar Salad,Chicken,8.99,,Thursday,3,0,11,2025,40.6,0.0,,0,,0,,0
+2025-11-26,R10,Cleveland Flats Eatery,Cleveland,OH,M37,Yogurt Parfait,Breakfast,3.99,,Wednesday,2,0,11,2025,38.4,0.0,,0,,0,,0
+2025-12-03,R10,Cleveland Flats Eatery,Cleveland,OH,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Wednesday,2,0,12,2025,33.0,0.02,Snow,0,,0,,0
+2025-12-25,R10,Cleveland Flats Eatery,Cleveland,OH,M42,Soft Serve Cone,Desserts,1.99,,Thursday,3,0,12,2025,24.4,0.0,,1,Christmas Day,0,,0
+2025-12-30,R10,Cleveland Flats Eatery,Cleveland,OH,M24,Soft Drink Large,Drinks,2.49,,Tuesday,1,0,12,2025,30.1,0.0,,0,,0,,0
+2025-12-31,R10,Cleveland Flats Eatery,Cleveland,OH,M39,Chocolate Chip Cookie,Desserts,1.49,,Wednesday,2,0,12,2025,27.9,0.09,Snow,0,,1,New Year's Eve on the Flats,0
+2025-10-03,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Friday,4,0,10,2025,53.5,0.0,,0,,0,,0
+2025-10-08,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M09,Crispy Chicken Sandwich,Chicken,7.29,,Wednesday,2,0,10,2025,59.9,0.0,,0,,0,,0
+2025-10-16,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M09,Crispy Chicken Sandwich,Chicken,7.29,,Thursday,3,0,10,2025,51.2,0.0,,0,,0,,0
+2025-10-16,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M17,Onion Rings,Sides,3.49,,Thursday,3,0,10,2025,51.2,0.0,,0,,0,,0
+2025-10-19,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M27,Milkshake Vanilla,Drinks,4.99,,Sunday,6,1,10,2025,53.0,0.0,,0,,0,,0
+2025-11-02,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M27,Milkshake Vanilla,Drinks,4.99,,Sunday,6,1,11,2025,45.6,0.18,Rain,0,,0,,0
+2025-11-06,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M13,Buffalo Chicken Tenders,Chicken,6.49,,Thursday,3,0,11,2025,47.1,0.0,,0,,0,,0
+2025-11-13,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M02,Double Bacon Burger,Burgers,9.49,,Thursday,3,0,11,2025,38.1,0.0,,0,,0,,0
+2025-11-14,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M13,Buffalo Chicken Tenders,Chicken,6.49,,Friday,4,0,11,2025,40.9,0.2,Rain,0,,0,,0
+2025-11-20,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M17,Onion Rings,Sides,3.49,,Thursday,3,0,11,2025,45.4,0.0,,0,,0,,0
+2025-11-23,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M14,Chicken Caesar Salad,Chicken,8.99,,Sunday,6,1,11,2025,39.5,0.0,,0,,0,,0
+2025-11-26,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M26,Lemonade,Drinks,2.49,,Wednesday,2,0,11,2025,40.8,0.0,,0,,0,,0
+2025-11-26,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M47,Kids Combo Meal,Combos,5.99,,Wednesday,2,0,11,2025,40.8,0.0,,0,,0,,0
+2025-12-03,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M34,Hash Browns,Breakfast,2.29,,Wednesday,2,0,12,2025,31.2,0.0,,0,,0,,0
+2025-12-05,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M38,Apple Pie Slice,Desserts,2.99,,Friday,4,0,12,2025,29.1,0.0,,0,,0,,0
+2025-12-06,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M12,Chicken Nuggets 12pc,Chicken,7.49,,Saturday,5,1,12,2025,31.9,0.73,Snow,0,,0,,0
+2025-12-08,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M22,Loaded Potato Bites,Sides,4.29,,Monday,0,0,12,2025,31.0,0.0,,0,,0,,0
+2025-12-13,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Saturday,5,1,12,2025,38.0,0.0,,0,,0,,0
+2025-12-16,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M12,Chicken Nuggets 12pc,Chicken,7.49,,Tuesday,1,0,12,2025,39.4,0.14,Rain,0,,0,,0
+2025-12-18,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M16,French Fries Large,Sides,3.99,,Thursday,3,0,12,2025,33.1,0.06,Snow,0,,0,,0
+2025-12-21,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M08,Turkey Burger,Burgers,7.99,,Sunday,6,1,12,2025,38.4,0.0,,0,,0,,0
+2025-12-30,R11,Cincinnati Riverfront Bites,Cincinnati,OH,M25,Iced Tea,Drinks,2.29,,Tuesday,1,0,12,2025,35.6,0.0,,0,,0,,0
+2025-10-02,R12,Des Moines Heartland Hub,Des Moines,IA,M43,Combo #1 Cheeseburger Meal,Combos,9.99,,Thursday,3,0,10,2025,49.4,0.0,,0,,0,,0
+2025-10-05,R12,Des Moines Heartland Hub,Des Moines,IA,M24,Soft Drink Large,Drinks,2.49,,Sunday,6,1,10,2025,52.9,0.0,,0,,0,,0
+2025-10-08,R12,Des Moines Heartland Hub,Des Moines,IA,M25,Iced Tea,Drinks,2.29,,Wednesday,2,0,10,2025,50.5,0.0,,0,,0,,0
+2025-10-10,R12,Des Moines Heartland Hub,Des Moines,IA,M09,Crispy Chicken Sandwich,Chicken,7.29,,Friday,4,0,10,2025,50.7,0.0,,0,,0,,0
+2025-10-12,R12,Des Moines Heartland Hub,Des Moines,IA,M16,French Fries Large,Sides,3.99,,Sunday,6,1,10,2025,47.9,0.0,,0,,0,,0
+2025-10-19,R12,Des Moines Heartland Hub,Des Moines,IA,M26,Lemonade,Drinks,2.49,,Sunday,6,1,10,2025,45.3,0.0,,0,,0,,0
+2025-10-23,R12,Des Moines Heartland Hub,Des Moines,IA,M16,French Fries Large,Sides,3.99,,Thursday,3,0,10,2025,43.8,0.0,,0,,0,,0
+2025-10-26,R12,Des Moines Heartland Hub,Des Moines,IA,M16,French Fries Large,Sides,3.99,,Sunday,6,1,10,2025,49.0,0.0,,0,,0,,0
+2025-10-29,R12,Des Moines Heartland Hub,Des Moines,IA,M50,Chili Bowl,Specials,5.49,,Wednesday,2,0,10,2025,44.6,0.0,,0,,0,,0
+2025-11-18,R12,Des Moines Heartland Hub,Des Moines,IA,M10,Grilled Chicken Wrap,Chicken,6.99,,Tuesday,1,0,11,2025,35.3,0.0,,0,,0,,0
+2025-11-26,R12,Des Moines Heartland Hub,Des Moines,IA,M27,Milkshake Vanilla,Drinks,4.99,,Wednesday,2,0,11,2025,28.9,0.27,Snow,0,,0,,0
+2025-11-28,R12,Des Moines Heartland Hub,Des Moines,IA,M12,Chicken Nuggets 12pc,Chicken,7.49,,Friday,4,0,11,2025,24.8,0.0,,0,,0,,0
+2025-12-06,R12,Des Moines Heartland Hub,Des Moines,IA,M23,Soft Drink Regular,Drinks,1.99,,Saturday,5,1,12,2025,26.5,0.38,Snow,0,,0,,0
+2025-12-07,R12,Des Moines Heartland Hub,Des Moines,IA,M22,Loaded Potato Bites,Sides,4.29,,Sunday,6,1,12,2025,29.2,0.0,,0,,0,,0
+2025-12-13,R12,Des Moines Heartland Hub,Des Moines,IA,M28,Milkshake Chocolate,Drinks,4.99,,Saturday,5,1,12,2025,26.0,0.0,,0,,0,,0
+2025-12-16,R12,Des Moines Heartland Hub,Des Moines,IA,M30,Bottled Water,Drinks,1.49,,Tuesday,1,0,12,2025,20.2,0.03,Snow,0,,0,,0
+2025-12-17,R12,Des Moines Heartland Hub,Des Moines,IA,M48,Seasonal Fish Sandwich,Specials,7.99,,Wednesday,2,0,12,2025,24.2,0.0,,0,,0,,0
+2025-12-19,R12,Des Moines Heartland Hub,Des Moines,IA,M23,Soft Drink Regular,Drinks,1.99,,Friday,4,0,12,2025,26.0,0.0,,0,,0,,0
+2025-12-21,R12,Des Moines Heartland Hub,Des Moines,IA,M07,Kids Burger,Burgers,4.99,,Sunday,6,1,12,2025,21.4,0.0,,0,,0,,0
+2025-12-21,R12,Des Moines Heartland Hub,Des Moines,IA,M19,Side Salad,Sides,3.29,,Sunday,6,1,12,2025,21.4,0.0,,0,,0,,0
+2025-12-21,R12,Des Moines Heartland Hub,Des Moines,IA,M42,Soft Serve Cone,Desserts,1.99,,Sunday,6,1,12,2025,21.4,0.0,,0,,0,,0
+2025-10-04,R13,Omaha Midtown Munch,Omaha,NE,M28,Milkshake Chocolate,Drinks,4.99,,Saturday,5,1,10,2025,54.4,0.0,,0,,0,,0
+2025-10-04,R13,Omaha Midtown Munch,Omaha,NE,M48,Seasonal Fish Sandwich,Specials,7.99,,Saturday,5,1,10,2025,54.4,0.0,,0,,0,,0
+2025-10-08,R13,Omaha Midtown Munch,Omaha,NE,M29,Coffee Regular,Drinks,1.79,,Wednesday,2,0,10,2025,52.4,0.0,,0,,0,,0
+2025-10-14,R13,Omaha Midtown Munch,Omaha,NE,M30,Bottled Water,Drinks,1.49,,Tuesday,1,0,10,2025,53.5,0.0,,0,,0,,0
+2025-10-17,R13,Omaha Midtown Munch,Omaha,NE,M30,Bottled Water,Drinks,1.49,,Friday,4,0,10,2025,49.7,0.47,Rain,0,,0,,0
+2025-10-17,R13,Omaha Midtown Munch,Omaha,NE,M32,Breakfast Burrito,Breakfast,5.49,,Friday,4,0,10,2025,49.7,0.47,Rain,0,,0,,0
+2025-10-21,R13,Omaha Midtown Munch,Omaha,NE,M39,Chocolate Chip Cookie,Desserts,1.49,,Tuesday,1,0,10,2025,48.4,0.0,,0,,0,,0
+2025-10-23,R13,Omaha Midtown Munch,Omaha,NE,M22,Loaded Potato Bites,Sides,4.29,,Thursday,3,0,10,2025,45.4,0.05,Rain,0,,0,,0
+2025-10-29,R13,Omaha Midtown Munch,Omaha,NE,M42,Soft Serve Cone,Desserts,1.99,,Wednesday,2,0,10,2025,41.1,0.0,,0,,0,,0
+2025-11-08,R13,Omaha Midtown Munch,Omaha,NE,M24,Soft Drink Large,Drinks,2.49,,Saturday,5,1,11,2025,34.0,0.53,Snow,0,,0,,0
+2025-11-13,R13,Omaha Midtown Munch,Omaha,NE,M09,Crispy Chicken Sandwich,Chicken,7.29,,Thursday,3,0,11,2025,36.4,0.29,Rain,0,,0,,0
+2025-12-03,R13,Omaha Midtown Munch,Omaha,NE,M38,Apple Pie Slice,Desserts,2.99,,Wednesday,2,0,12,2025,31.2,0.0,,0,,0,,0
+2025-12-05,R13,Omaha Midtown Munch,Omaha,NE,M11,Chicken Nuggets 6pc,Chicken,4.99,,Friday,4,0,12,2025,27.1,0.0,,0,,0,,0
+2025-12-11,R13,Omaha Midtown Munch,Omaha,NE,M32,Breakfast Burrito,Breakfast,5.49,,Thursday,3,0,12,2025,26.8,0.0,,0,,0,,0
+2025-12-13,R13,Omaha Midtown Munch,Omaha,NE,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Saturday,5,1,12,2025,21.4,0.0,,0,,0,,0
+2025-12-13,R13,Omaha Midtown Munch,Omaha,NE,M33,Pancake Platter,Breakfast,5.99,,Saturday,5,1,12,2025,21.4,0.0,,0,,0,,0
+2025-12-15,R13,Omaha Midtown Munch,Omaha,NE,M24,Soft Drink Large,Drinks,2.49,,Monday,0,0,12,2025,26.1,0.0,,0,,0,,0
+2025-12-23,R13,Omaha Midtown Munch,Omaha,NE,M02,Double Bacon Burger,Burgers,9.49,,Tuesday,1,0,12,2025,18.2,0.0,,0,,0,,0
+2025-12-30,R13,Omaha Midtown Munch,Omaha,NE,M40,Brownie,Desserts,2.49,,Tuesday,1,0,12,2025,30.8,0.0,,0,,0,,0
+2025-10-14,R14,Madison State Street Snacks,Madison,WI,M34,Hash Browns,Breakfast,2.29,,Tuesday,1,0,10,2025,44.8,0.0,,0,,0,,0
+2025-10-20,R14,Madison State Street Snacks,Madison,WI,M10,Grilled Chicken Wrap,Chicken,6.99,,Monday,0,0,10,2025,42.7,0.0,,0,,0,,0
+2025-10-21,R14,Madison State Street Snacks,Madison,WI,M05,BBQ Ranch Burger,Burgers,8.99,,Tuesday,1,0,10,2025,46.4,0.0,,0,,0,,0
+2025-10-22,R14,Madison State Street Snacks,Madison,WI,M12,Chicken Nuggets 12pc,Chicken,7.49,,Wednesday,2,0,10,2025,46.5,0.0,,0,,0,,0
+2025-11-07,R14,Madison State Street Snacks,Madison,WI,M17,Onion Rings,Sides,3.49,,Friday,4,0,11,2025,30.5,0.0,,0,,0,,0
+2025-11-10,R14,Madison State Street Snacks,Madison,WI,M11,Chicken Nuggets 6pc,Chicken,4.99,,Monday,0,0,11,2025,28.3,0.1,Snow,0,,0,,0
+2025-11-19,R14,Madison State Street Snacks,Madison,WI,M17,Onion Rings,Sides,3.49,,Wednesday,2,0,11,2025,30.5,0.48,Snow,0,,0,,0
+2025-11-27,R14,Madison State Street Snacks,Madison,WI,M03,Veggie Burger,Burgers,7.49,,Thursday,3,0,11,2025,34.2,0.01,Rain,1,Thanksgiving Day,0,,0
+2025-11-28,R14,Madison State Street Snacks,Madison,WI,M23,Soft Drink Regular,Drinks,1.99,,Friday,4,0,11,2025,34.9,0.0,,0,,0,,0
+2025-11-30,R14,Madison State Street Snacks,Madison,WI,M50,Chili Bowl,Specials,5.49,,Sunday,6,1,11,2025,26.1,0.5,Snow,0,,0,,0
+2025-12-02,R14,Madison State Street Snacks,Madison,WI,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Tuesday,1,0,12,2025,16.7,0.0,,0,,0,,0
+2025-12-07,R14,Madison State Street Snacks,Madison,WI,M45,Combo #3 Double Burger Meal,Combos,12.49,,Sunday,6,1,12,2025,20.7,0.04,Snow,0,,0,,0
+2025-12-12,R14,Madison State Street Snacks,Madison,WI,M29,Coffee Regular,Drinks,1.79,,Friday,4,0,12,2025,21.3,0.0,,0,,0,,0
+2025-12-12,R14,Madison State Street Snacks,Madison,WI,M30,Bottled Water,Drinks,1.49,,Friday,4,0,12,2025,21.3,0.0,,0,,0,,0
+2025-12-13,R14,Madison State Street Snacks,Madison,WI,M18,Mozzarella Sticks,Sides,4.49,,Saturday,5,1,12,2025,26.6,0.09,Snow,0,,0,,0
+2025-12-13,R14,Madison State Street Snacks,Madison,WI,M26,Lemonade,Drinks,2.49,,Saturday,5,1,12,2025,26.6,0.09,Snow,0,,0,,1
+2025-12-19,R14,Madison State Street Snacks,Madison,WI,M02,Double Bacon Burger,Burgers,9.49,,Friday,4,0,12,2025,19.1,0.0,,0,,0,,0
+2025-12-22,R14,Madison State Street Snacks,Madison,WI,M07,Kids Burger,Burgers,4.99,,Monday,0,0,12,2025,29.8,0.0,,0,,0,,0
+2025-10-05,R15,Ann Arbor College Cravings,Ann Arbor,MI,M29,Coffee Regular,Drinks,1.79,,Sunday,6,1,10,2025,49.4,0.0,,0,,0,,0
+2025-10-09,R15,Ann Arbor College Cravings,Ann Arbor,MI,M07,Kids Burger,Burgers,4.99,,Thursday,3,0,10,2025,49.9,0.14,Rain,0,,0,,0
+2025-10-11,R15,Ann Arbor College Cravings,Ann Arbor,MI,M05,BBQ Ranch Burger,Burgers,8.99,,Saturday,5,1,10,2025,54.9,0.0,,0,,0,,0
+2025-10-12,R15,Ann Arbor College Cravings,Ann Arbor,MI,M37,Yogurt Parfait,Breakfast,3.99,,Sunday,6,1,10,2025,56.9,1.32,Rain,0,,0,,0
+2025-10-29,R15,Ann Arbor College Cravings,Ann Arbor,MI,M17,Onion Rings,Sides,3.49,,Wednesday,2,0,10,2025,45.4,0.0,,0,,0,,0
+2025-10-31,R15,Ann Arbor College Cravings,Ann Arbor,MI,M11,Chicken Nuggets 6pc,Chicken,4.99,,Friday,4,0,10,2025,41.0,0.0,,0,,0,,0
+2025-11-01,R15,Ann Arbor College Cravings,Ann Arbor,MI,M17,Onion Rings,Sides,3.49,,Saturday,5,1,11,2025,39.2,0.0,,0,,0,,0
+2025-11-11,R15,Ann Arbor College Cravings,Ann Arbor,MI,M49,Loaded Nachos,Specials,6.99,,Tuesday,1,0,11,2025,37.5,0.04,Rain,1,Veterans Day,0,,0
+2025-11-19,R15,Ann Arbor College Cravings,Ann Arbor,MI,M23,Soft Drink Regular,Drinks,1.99,,Wednesday,2,0,11,2025,37.3,0.28,Rain,0,,0,,0
+2025-11-23,R15,Ann Arbor College Cravings,Ann Arbor,MI,M18,Mozzarella Sticks,Sides,4.49,,Sunday,6,1,11,2025,35.3,0.0,,0,,0,,0
+2025-11-30,R15,Ann Arbor College Cravings,Ann Arbor,MI,M31,Breakfast Sandwich Egg & Cheese,Breakfast,4.49,,Sunday,6,1,11,2025,36.2,0.74,Rain,0,,0,,0
+2025-12-03,R15,Ann Arbor College Cravings,Ann Arbor,MI,M44,Combo #2 Chicken Sandwich Meal,Combos,9.99,,Wednesday,2,0,12,2025,27.8,0.0,,0,,0,,0
+2025-12-07,R15,Ann Arbor College Cravings,Ann Arbor,MI,M08,Turkey Burger,Burgers,7.99,,Sunday,6,1,12,2025,34.1,0.17,Snow,0,,0,,0
+2025-12-09,R15,Ann Arbor College Cravings,Ann Arbor,MI,M06,Spicy Jalapeno Burger,Burgers,8.49,,Tuesday,1,0,12,2025,23.9,0.01,Snow,0,,0,,0
+2025-12-16,R15,Ann Arbor College Cravings,Ann Arbor,MI,M50,Chili Bowl,Specials,5.49,,Tuesday,1,0,12,2025,24.5,0.0,,0,,0,,0
+2025-12-17,R15,Ann Arbor College Cravings,Ann Arbor,MI,M35,Oatmeal Cup,Breakfast,2.99,,Wednesday,2,0,12,2025,30.5,0.04,Snow,0,,0,,0
+2025-12-24,R15,Ann Arbor College Cravings,Ann Arbor,MI,M29,Coffee Regular,Drinks,1.79,,Wednesday,2,0,12,2025,27.1,0.0,,0,,0,,0
+2025-12-27,R15,Ann Arbor College Cravings,Ann Arbor,MI,M49,Loaded Nachos,Specials,6.99,,Saturday,5,1,12,2025,29.0,0.8,Snow,0,,0,,0
+2025-12-28,R15,Ann Arbor College Cravings,Ann Arbor,MI,M12,Chicken Nuggets 12pc,Chicken,7.49,,Sunday,6,1,12,2025,21.2,0.0,,0,,0,,0
+2025-12-30,R15,Ann Arbor College Cravings,Ann Arbor,MI,M18,Mozzarella Sticks,Sides,4.49,,Tuesday,1,0,12,2025,23.3,0.02,Snow,0,,0,,0
+2025-12-31,R15,Ann Arbor College Cravings,Ann Arbor,MI,M25,Iced Tea,Drinks,2.29,,Wednesday,2,0,12,2025,28.7,0.15,Snow,0,,0,,0

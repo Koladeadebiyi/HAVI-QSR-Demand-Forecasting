@@ -1,0 +1,26 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Credentials
+.env
+.env.*
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Raw competition dataset
+data/qsr_demand_dataset.csv
+
+# Reproducible intermediate datasets
+data/processed/
+
+# Temporary files
+*.log

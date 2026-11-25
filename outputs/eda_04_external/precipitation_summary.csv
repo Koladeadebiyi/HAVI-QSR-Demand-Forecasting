@@ -1,0 +1,3 @@
+has_precipitation,average_quantity,median_quantity,restaurant_days,weather_condition
+0.0,25.980342473716465,24.82,17143,Dry
+1.0,24.549595712628975,23.28,8867,Precipitation

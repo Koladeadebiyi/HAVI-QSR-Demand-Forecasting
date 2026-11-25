@@ -1,0 +1,3 @@
+observations,actual_demand,predicted_demand,wMAPE,MAE,RMSE,bias_pct,underprediction_count,overprediction_count,exact_prediction_count,actual_zero,average_prediction,prediction_zero_rate_pct
+67167,2203759.0,2176284.2197055756,13.51946452007664,4.435755893712623,9.039873432086324,-1.2467234527198476,35479,31688,0,False,32.40109309192871,0.0
+1554,0.0,25803.78333111202,,16.604751178321763,17.84409301511294,,0,1554,0,True,16.604751178321763,0.0

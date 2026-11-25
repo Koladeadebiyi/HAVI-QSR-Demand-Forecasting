@@ -1,0 +1,3 @@
+is_weekend,average_temperature,average_precipitation,average_quantity,holiday_days,event_days,restaurant_days,day_type
+0,52.0549703823371,0.09738072159396877,24.13907773891527,765,649,18570,Weekday
+1,52.020564516129035,0.09445026881720431,28.87091432784221,120,264,7440,Weekend
